@@ -15,7 +15,7 @@
 
 ```mermaid
 graph TD
-  A[Should you interact?] --> B(Are you: Under 18? Homophobe? Transphobe? Racist? Sexist? Or generally a hateful or problematic person who seeks conflicts?)
+  A[Wish to interact with me? Ask yourself these:] --> B(Are you: Under 18? Homophobe? Transphobe? Racist? Sexist? Or generally a hateful or problematic person who seeks conflicts?)
   B -->|Yes?| C[Goodbye]
   B -->|No?| D[Then feel free to. I don't bite. Much. ]
 ```
