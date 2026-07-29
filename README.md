@@ -1,6 +1,6 @@
 # ⋆༺𓆩☠︎︎༒︎ 𝔚𝔬𝔲𝔩𝔡 𝔶𝔬𝔲 𝔭𝔯𝔞𝔶 𝔟𝔢𝔣𝔬𝔯𝔢 𝔶𝔬𝔲 𝔱𝔴𝔦𝔰𝔱 𝔱𝔥𝔢 𝖐𝖓𝖎𝖋𝖊? ༒︎☠︎︎𓆪༻⋆
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVzbWNpZHhqOHgzN3c3aDI0bHhkY214OGFmdmJmbmZxZWxka2kybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoJY7gHANZ2iQ/giphy.gif" width="750" height="250"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVzbWNpZHhqOHgzN3c3aDI0bHhkY214OGFmdmJmbmZxZWxka2kybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoJY7gHANZ2iQ/giphy.gif" width="900" height="500"/>
 
 ## ☠<|𝔍𝔦𝔫𝔵|>☠
 
@@ -15,7 +15,20 @@
 
 ```mermaid
 graph TD
-  A[Should you interact?] --> B(Are you: Under 18? Homophobe? Transphobe? Racist? Sexist? Or generally a hateful or problematic person who seeks fights?)
+  A[Should you interact?] --> B(Are you: Under 18? Homophobe? Transphobe? Racist? Sexist? Or generally a hateful or problematic person who seeks conflicts?)
   B -->|Yes?| C[Goodbye]
   B -->|No?| D[Then feel free to. I don't bite. Much. ]
 ```
+
+## ༺⊰⋆⊹𖥔 𝔸𝕓𝕒𝕟𝕕𝕠𝕟 𝕕𝕖𝕒𝕥𝕙 𝕒𝕤 𝕪𝕠𝕦𝕣 𝖔𝖇𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𖥔⊹<br>༺⊰⋆⊹𖥔 ℂ𝕣𝕒𝕨𝕝 𝕓𝕒𝕔𝕜𝕨𝕒𝕣𝕕𝕤 𝕠𝕦𝕥 𝕠𝕗 𝕳𝖊𝖆𝖛𝖊𝖓 𖥔⊹
+
+<img src="https://64.media.tumblr.com/b66c146f729f43ae49e9a05e558d2dfe/afa150190a1c6b8f-de/s1280x1920/4dc06a335037b4266764ff2bafca3719d5ee8ae6.gif" width="800" height="500"/>
+
+# Small info about me, for those curious souls who made it here.
+
+| Some of my more prominent but not exclusive Fandoms/interests are: |
+| ------------- |
+| Videogames: Warframe, Dragon Age + Mass Effect series, Witcher series, Watch Dogs, Metro series, Crusader Kings games, Assassin's Creed. |
+| Hobbies: Writing, Reading, occasionally drawing. |
+| I listen to a lot of music as well, spanning a huge variety of genres. I can truly say I listen to just about anything from metal and rock through electro and pop music, all the way to even country. Musicals are also a favorite of mine. If it sounds nice, i don't see a point why i shouldn't listen to it. |
+| For shows and movies, I do prefer horror especially psychological, mystery and drama genres. But i'm no stranger to comedies, romance, action and adventure or even animated and anime genres. Some shows+movies I can safely suggest to watch would be: From, Manifest, Under the Dome, Smile 1 and 2, Hereditary |
