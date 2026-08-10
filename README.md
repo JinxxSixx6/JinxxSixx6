@@ -23,7 +23,7 @@ graph TD
 
 # $${\color{lightgreen}༺⊰⋆⊹𖥔 \space 𝔸𝕓𝕒𝕟𝕕𝕠𝕟 \space 𝕕𝕖𝕒𝕥𝕙 \space 𝕒𝕤 \space 𝕪𝕠𝕦𝕣}$$ $${\color{#DC143C}𝖔𝖇𝖘𝖊𝖘𝖘𝖎𝖔𝖓}$$ $${\color{lightgreen}𖥔⊹}$$<br>$${\color{#DC143C}༺⊰⋆⊹𖥔 \space ℂ𝕣𝕒𝕨𝕝 \space 𝕓𝕒𝕔𝕜𝕨𝕒𝕣𝕕𝕤 \space 𝕠𝕦𝕥 \space 𝕠𝕗}$$ $${\color{lightgreen}𝕳𝖊𝖆𝖛𝖊𝖓}$$ $${\color{#DC143C}𖥔⊹}$$
 
-<img src="https://64.media.tumblr.com/b66c146f729f43ae49e9a05e558d2dfe/afa150190a1c6b8f-de/s1280x1920/4dc06a335037b4266764ff2bafca3719d5ee8ae6.gif" width="00" height="500"/>
+<img src="https://64.media.tumblr.com/b66c146f729f43ae49e9a05e558d2dfe/afa150190a1c6b8f-de/s1280x1920/4dc06a335037b4266764ff2bafca3719d5ee8ae6.gif" width="900" height="500"/>
 
 ## $${\color{#756e85}𝚂𝚖𝚊𝚕𝚕 \space 𝚒𝚗𝚏𝚘 \space 𝚊𝚋𝚘𝚞𝚝 \space 𝚖𝚎, \space 𝚏𝚘𝚛 \space 𝚝𝚑𝚘𝚜𝚎 \space 𝚌𝚞𝚛𝚒𝚘𝚞𝚜 \space 𝚜𝚘𝚞𝚕𝚜 \space 𝚠𝚑𝚘 \space 𝚖𝚊𝚍𝚎 \space 𝚒𝚝 \space 𝚑𝚎𝚛𝚎.}$$
 
