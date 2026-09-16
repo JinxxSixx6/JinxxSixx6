@@ -1,4 +1,4 @@
-# $${\color{#0762b4}⋆༺𓆩☠︎︎༒︎ \space 𝔚𝔬𝔲𝔩𝔡 \space 𝔶𝔬𝔲 \space 𝔭𝔯𝔞𝔶 \space 𝔟𝔢𝔣𝔬𝔯𝔢 \space 𝔶𝔬𝔲 \space 𝔱𝔴𝔦𝔰𝔱 \space 𝔱𝔥𝔢}$$ $${\color{#ff00a9}𝖐𝖓𝖎𝖋𝖊?}$$ $${\color{#0762b4}༒︎☠︎︎𓆪༻⋆}$$
+# $${\color{#0762b4}⋆༺𓆩☠︎︎༒︎\space 𝔚𝔬𝔲𝔩𝔡 \space 𝔶𝔬𝔲 \space 𝔭𝔯𝔞𝔶 \space 𝔟𝔢𝔣𝔬𝔯𝔢 \space 𝔶𝔬𝔲 \space 𝔱𝔴𝔦𝔰𝔱 \space 𝔱𝔥𝔢}$$ $${\color{#ff00a9}𝖐𝖓𝖎𝖋𝖊?}$$ $${\color{#0762b4}༒︎☠︎︎𓆪༻⋆}$$
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVzbWNpZHhqOHgzN3c3aDI0bHhkY214OGFmdmJmbmZxZWxka2kybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoJY7gHANZ2iQ/giphy.gif" width="900" height="500"/>
 
@@ -11,7 +11,7 @@
 | 𝔸𝕘𝕖 ℂ𝕒𝕥𝕖𝕘𝕠𝕣𝕪? | 𝒜 𝒻𝓊𝓃𝒸𝓉𝒾𝑜𝓃𝒶𝓁 𝓪𝓭𝓾𝓵𝓽 𝓂𝑒𝓂𝒷𝑒𝓇 𝑜𝒻 '𝓈𝑜𝒸𝒾𝑒𝓉𝓎' |
 | 𝕆𝕣𝕚𝕘𝕚𝕟? | 𝒮𝓁𝑜𝓋𝒶𝓀𝒾𝒶 / 𝒞𝐸𝒯/𝒞𝐸𝒮𝒯 (𝓤𝓣𝓒+02)
 
-# $${\color{#ff00a9}⋆༺𓆩♱𓆪༻⋆ \space 𝔚𝔬𝔲𝔩𝔡 \space 𝔶𝔬𝔲 \space 𝔱𝔞𝔨𝔢 \space 𝔪𝔶 \space 𝔥𝔞𝔫𝔡 \space 𝔞𝔫𝔡 \space 𝔱𝔞𝔨𝔢 \space 𝔞}$$ $${\color{#0762b4}𝖑𝖎𝖋𝖊?}$$ $${\color{#ff00a9}⋆༺𓆩♱𓆪༻⋆}$$
+# $${\color{#ff00a9}⋆༺𓆩♱\space 𝔚𝔬𝔲𝔩𝔡 \space 𝔶𝔬𝔲 \space 𝔱𝔞𝔨𝔢 \space 𝔪𝔶 \space 𝔥𝔞𝔫𝔡 \space 𝔞𝔫𝔡 \space 𝔱𝔞𝔨𝔢 \space 𝔞}$$ $${\color{#0762b4}𝖑𝖎𝖋𝖊?}$$ $${\color{#ff00a9}♱𓆪༻⋆}$$
 
 ```mermaid
 graph TD
